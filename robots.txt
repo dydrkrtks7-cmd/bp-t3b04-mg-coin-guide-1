@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sinchon-nightlife-note.best-hapjeong-pub.xyz/sitemap.xml
+Sitemap: https://sinchon-nightlife-note.best-hapjeong-pub.xyz/sitemap-pages.xml
